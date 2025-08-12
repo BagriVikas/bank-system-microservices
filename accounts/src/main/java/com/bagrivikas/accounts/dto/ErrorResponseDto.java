@@ -1,12 +1,13 @@
 package com.bagrivikas.accounts.dto;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
+import lombok.*;
 import org.springframework.http.HttpStatus;
 
 import java.time.LocalDateTime;
 
-@Data
+@Setter
+@Getter
+@NoArgsConstructor
 @AllArgsConstructor
 public class ErrorResponseDto {
 
@@ -17,5 +18,4 @@ public class ErrorResponseDto {
     private String errorMessage;
 
     private LocalDateTime errorTime;
-
 }

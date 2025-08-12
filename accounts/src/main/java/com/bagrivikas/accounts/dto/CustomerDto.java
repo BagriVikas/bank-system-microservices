@@ -1,9 +1,10 @@
 package com.bagrivikas.accounts.dto;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
+import lombok.*;
 
-@Data
+@Setter
+@Getter
+@NoArgsConstructor
 @AllArgsConstructor
 public class CustomerDto {
 
@@ -12,5 +13,7 @@ public class CustomerDto {
     private String email;
 
     private String mobileNumber;
+
+    private AccountsDto accountsDto;
 
 }

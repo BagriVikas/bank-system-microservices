@@ -1,9 +1,10 @@
 package com.bagrivikas.accounts.dto;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
+import lombok.*;
 
-@Data
+@Setter
+@Getter
+@NoArgsConstructor
 @AllArgsConstructor
 public class AccountsDto {
 
