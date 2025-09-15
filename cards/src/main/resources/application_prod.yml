@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Kamlesh Bhawan - Product Owner"
+    email: "kamlesh@eazybank.com"
+  onCallSupport:
+    - (234) 392-4829
+    - (783) 203-0384
