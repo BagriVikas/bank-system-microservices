@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs "
+  contactDetails:
+    name: "Vikas Bagri - Developer"
+    email: "vikasbagri@eazybank.com"
+  onCallSupport:
+    - (888) 666-2345
+    - (888) 626-1321
