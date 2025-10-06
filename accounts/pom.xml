@@ -73,6 +73,10 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-config</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-bus-amqp</artifactId>
+        </dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
@@ -101,7 +105,7 @@
                 <version>3.4.6</version>
                 <configuration>
                     <to>
-                        <image>bagrivikas/${project.artifactId}:v1</image>
+                        <image>bagrivikas/${project.artifactId}:v6</image>
                     </to>
                 </configuration>
             </plugin>
