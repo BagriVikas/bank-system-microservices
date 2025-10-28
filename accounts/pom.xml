@@ -108,7 +108,7 @@
                 <version>3.4.6</version>
                 <configuration>
                     <to>
-                        <image>bagrivikas/${project.artifactId}:v7</image>
+                        <image>bagrivikas/${project.artifactId}:v8</image>
                     </to>
                 </configuration>
             </plugin>
