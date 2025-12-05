@@ -93,7 +93,7 @@
                 <version>3.4.6</version>
                 <configuration>
                     <to>
-                        <image>bagrivikas/${project.artifactId}:v9</image>
+                        <image>bagrivikas/${project.artifactId}:v10</image>
                     </to>
                 </configuration>
             </plugin>
