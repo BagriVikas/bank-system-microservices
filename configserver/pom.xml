@@ -65,7 +65,7 @@
 				<version>3.4.6</version>
 				<configuration>
 					<to>
-						<image>bagrivikas/${project.artifactId}:v10</image>
+						<image>bagrivikas/${project.artifactId}:v11</image>
 					</to>
 				</configuration>
 			</plugin>
